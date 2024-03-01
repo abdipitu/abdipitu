@@ -9,5 +9,6 @@ Here are some ideas to get you started:
 
 hallo saya Humam Abdillah,
 Motivasi saya adalah saya bahagia ketika orang di sekitar saya bahagia.
+Hai guys
 
 -->
