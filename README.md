@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 
 I'm like Islam💘
 Marhaban ya Ramadhan
-saya tidak cinta okta
 
 
 -->
