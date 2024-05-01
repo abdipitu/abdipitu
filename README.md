@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 I'm like Islam💘
 Marhaban ya Ramadhan
 Hi kawan
+ngomong apa dia
 
 
 -->
