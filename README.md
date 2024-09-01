@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 
 List Projek 1 September 2024
-- [ ] dashboard admin projek web-bioskop (moza)
+- [x] dashboard admin projek web-bioskop (moza)
 - [ ] pamflet kerja full-stuck developer (jastin)
 - [ ] desain web company profile (nendra)
 -->
