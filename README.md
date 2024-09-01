@@ -7,10 +7,8 @@
 
 Here are some ideas to get you started:
 
-👦🏻 I'm a kids
-
-I'm like Islam💘
-hai 
-
-
+List Projek 1 September 2024
+- [ ] dashboard admin projek web-bioskop (moza)
+- [ ] pamflet kerja full-stuck developer (jastin)
+- [ ] desain web company profile (nendra)
 -->
