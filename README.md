@@ -1,1 +1,1 @@
-# Orang baik hati dan tidak sombong
+# Orang baik hati dan tidak sombong.
