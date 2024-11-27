@@ -1,1 +1,1 @@
-### keep strong
+# Orang baik hati dan tidak sombong
