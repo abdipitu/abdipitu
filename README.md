@@ -1,1 +1,2 @@
-# Orang baik hati dan tidak sombong.
+# Kebebasan dalam bermimpi.
+Jir keren juga
