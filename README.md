@@ -1,2 +1,2 @@
 # Kebebasan dalam bermimpi.
-Jir keren juga
+Yahaha Hayuk..
